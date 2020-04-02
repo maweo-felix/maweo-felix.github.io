@@ -1,0 +1,46 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.18ab59ab68079e67e34f.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-640cb01c5d0cf6e2b049.js
+  Cache-Control: public, max-age=31536000, immutable
+/commons-7a895052c3d586898344.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-js-3380804208f55a5dd72a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-js-002a6c99400799cf884b.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-18d8d79cfe4d84450536.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-107067014cb3f34463bc.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/404/
+  Link: </webpack-runtime-18d8d79cfe4d84450536.js>; rel=preload; as=script
+  Link: </commons-7a895052c3d586898344.js>; rel=preload; as=script
+  Link: </app-107067014cb3f34463bc.js>; rel=preload; as=script
+  Link: </styles-640cb01c5d0cf6e2b049.js>; rel=preload; as=script
+  Link: </commons-7a895052c3d586898344.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-3380804208f55a5dd72a.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-18d8d79cfe4d84450536.js>; rel=preload; as=script
+  Link: </commons-7a895052c3d586898344.js>; rel=preload; as=script
+  Link: </app-107067014cb3f34463bc.js>; rel=preload; as=script
+  Link: </styles-640cb01c5d0cf6e2b049.js>; rel=preload; as=script
+  Link: </commons-7a895052c3d586898344.js>; rel=preload; as=script
+  Link: </component---src-pages-index-js-002a6c99400799cf884b.js>; rel=preload; as=script
+/404.html
+  Link: </webpack-runtime-18d8d79cfe4d84450536.js>; rel=preload; as=script
+  Link: </commons-7a895052c3d586898344.js>; rel=preload; as=script
+  Link: </app-107067014cb3f34463bc.js>; rel=preload; as=script
+  Link: </styles-640cb01c5d0cf6e2b049.js>; rel=preload; as=script
+  Link: </commons-7a895052c3d586898344.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-3380804208f55a5dd72a.js>; rel=preload; as=script
